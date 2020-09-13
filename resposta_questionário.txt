@@ -1,0 +1,40 @@
+Marcus Vinicius Ferreira   RA:	1460681823032
+
+	I.Questão
+
+Sistema de ACCES
+
+	Sistema de gerenciamento de dados da Microsoft; imaginemos um sistema que gerencia um comércio de produtos de 
+limpeza para carros, nele se deseja categorizar e organizar os clientes por tipo de produtos comprados, valor gasto ao mês e etc.
+	Nesse sistema os DADOS se caracterizam por serem características de cada cliente, como por exemplo, cor do carro, 
+tipo de cera utilizada na pintura, qual tipo de pretinho para pneus o cliente usa, telefone, endereço dos clientes, última
+e próxima data de compra, tipo de pagamento preferido.
+	A INFORMAÇÃO associada a esse sistema, é o conjunto de dados da mesma categoria que possam ser comparados; Quantos clientes tem
+o carro preto ou vermelho, quantos clientes pagam com cartão, qual a região da cidade em que mais vende o pretinho, quais clientes
+precisam de entregas ou não, filtros de informações e etc.
+	CONHECIMENTO é o conjunto de informações que estabelece um entendimento ou ação por parte
+de que opera o sistema, como por exemplo, decidir qual tipo de cera vende mais e qual precisa ser reposta com menos frequência,
+qual tipo de rota a ser estabelecida nas entregas e afins. Quem conhece pode estabelecer novas relações, 
+tirar novas conclusões, agregar novas Informações, reformular significados.
+	
+
+	II.Questão
+	M = 77	= (0100)(1101)			F = 70  = (0100)(0110)
+	a = 97	= (0110)(0001)	 		e = 101 = (0110)(0101)
+        r = 114	= (0111)(0010)			r = 114 = (0111)(0010)
+	c = 99	= (0110)(0011)			r = 114 = (0111)(0010)
+	u = 117	= (0111)(0101)			e = 101 = (0110)(0101)
+	s = 115	= (0111)(0011)			i = 105 = (0110)(1001)
+						r = 114 = (0111)(0010)
+						a = 97  = (0110)(0001)
+
+
+	III.Questão
+	A criptografia é uma maneira de impedir que uma pessoa tenha acesso à uma determinada informação sem que possua uma
+chave para decifrar o código enviado. Sendo assim, só é possível acessar o conteúdo da informação se tiver uma chave para 
+descriptografar a mensagem. Um dos vários sites que utilizam criptografia é o Twitter, ao compartilhar informações privadas, o site 
+"embaralha" as informações no período em que ela "viaja" pela rede de internet, e o decifra ao chegar até seu receptor
+	LINK:  TWITTER.COM
+
+	IV.Questão
+	PRINT NO REPOSITÓRIO
